@@ -1,0 +1,14 @@
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\bin\Debug\net8.0\Algorytmy2.exe
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\bin\Debug\net8.0\Algorytmy2.deps.json
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\bin\Debug\net8.0\Algorytmy2.runtimeconfig.json
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\bin\Debug\net8.0\Algorytmy2.dll
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\bin\Debug\net8.0\Algorytmy2.pdb
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.AssemblyInfoInputs.cache
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.AssemblyInfo.cs
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.csproj.CoreCompileInputs.cache
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.dll
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\refint\Algorytmy2.dll
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.pdb
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\Algorytmy2.genruntimeconfig.cache
+C:\Users\ciapibara\source\repos\Algorytmy2\Algorytmy2\obj\Debug\net8.0\ref\Algorytmy2.dll
