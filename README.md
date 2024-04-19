@@ -1,0 +1,1 @@
+dziala, jak cos
